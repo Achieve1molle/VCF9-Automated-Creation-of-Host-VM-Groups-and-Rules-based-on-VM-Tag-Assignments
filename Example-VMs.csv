@@ -1,0 +1,3 @@
+TagName,VMRuleName,HostGroupName
+AZ1,AZ1-VMs,AZ1-Hosts
+AZ2,AZ2-VMs,AZ2-Hosts
