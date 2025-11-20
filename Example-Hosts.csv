@@ -1,0 +1,7 @@
+HostName,HostRuleName
+hostname1.fqdn,AZ1-Hosts
+hostname2.fqdn,AZ1-Hosts
+hostname3.fqdn,AZ1-Hosts
+hostname4.fqdn,AZ2-Hosts
+hostname5.fqdn,AZ2-Hosts
+hostname6.fqdn,AZ2-Hosts
